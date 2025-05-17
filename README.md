@@ -35,7 +35,7 @@ The user can toggle between modes and reset the timer using push buttons.
 
 Watch the full project demonstration in this Drive folder:
 
-👉 [Google Drive Video Link](https://drive.google.com/drive/folders/1xXHXIRpl0xQ1C8-Y3YCTPF1xxbJQvPD)
+👉 [Google Drive Video Link](https://drive.google.com/drive/folders/1xXHXIRpl0xQ1C8-Y3YCTPF1xxbJ-QvPD)
 
 ---
 
