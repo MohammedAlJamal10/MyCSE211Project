@@ -31,11 +31,11 @@ The user can toggle between modes and reset the timer using push buttons.
 
 ---
 
-## 📊 Flowchart
+## 📸 Project Demonstration
 
-Below is the logic diagram of the program:
+Watch the full project demonstration in this Drive folder:
 
-![Flowchart](A_flowchart_diagram_in_the_image_depicts_the_logic.png)
+👉 [Google Drive Video Link](https://drive.google.com/drive/folders/1xXHXIRpl0xQ1C8-Y3YCTPF1xxbJQvPD)
 
 ---
 
