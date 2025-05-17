@@ -65,7 +65,7 @@ The main source code is in [`main.cpp`](main.cpp). It includes:
 ## 📦 Dependencies
 
 - Mbed OS 6.x
-- STM32-compatible development board (e.g., NUCLEO-F103RB)
+- STM32-compatible development board (NUCLEO-F401RE)
 - 74HC595 shift register
 - 4-digit common-cathode 7-segment display
 
